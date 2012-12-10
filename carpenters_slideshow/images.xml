@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+<album title="Carpenters" description="Carpenters" lgPath="gallery/album1/large/" tnPath="gallery/album1/thumbs/">
+<img src="image001.jpg" />
+<img src="image002.jpg" />
+<img src="image003.jpg" />
+<img src="image004.jpg" />
+<img src="image005.jpg" />
+<img src="image006.jpg" />
+<img src="image007.jpg" />
+<img src="image008.jpg" />
+<img src="image009.jpg" />
+<img src="image010.jpg" />
+</album>
+</gallery>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+<album title="Stattens" description="Stattens" lgPath="gallery/album1/large/" tnPath="gallery/album1/thumbs/">
+<img src="image001.jpg" />
+<img src="image002.jpg" />
+<img src="image003.jpg" />
+<img src="image004.jpg" />
+<img src="image005.jpg" />
+<img src="image006.jpg" />
+<img src="image007.jpg" />
+</album>
+</gallery>
